@@ -1,0 +1,1 @@
+Data Source (create methods here) -> Repository (create class for Repository, expose the data source) -> Service (expose the repository here) -> expose the service to other controllers (e.g PlaceService)
